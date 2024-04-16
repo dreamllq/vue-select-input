@@ -1,3 +1,1 @@
-export { default as Hello } from './hello.vue';
-export { default as World } from './world.jsx';
-
+export { default as SelectInput } from './select-input/index.vue';
